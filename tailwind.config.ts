@@ -24,6 +24,7 @@ const config: Config = {
         greenDark: "#3AAF5D",
         red: "#CE141F",
         gray: "#A1A1A1",
+        yellow: "#FAC20E",
         textGray: "#5E6166",
         border: "#dfdfdf",
         grayLight: "#f3f3f3",

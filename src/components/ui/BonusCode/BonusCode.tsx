@@ -9,7 +9,7 @@ export const BonusCode = ({ className, bonus }: iBonusCode) => {
   return (
     <div
       className={cn(
-        "py-[15px] px-[15px] border-dashed border-gray font-bold border text-center rounded-lg",
+        "pt-[13px] pb-[12px] px-[15px] border-dashed border-gray font-bold border text-center rounded-lg",
         className
       )}
     >

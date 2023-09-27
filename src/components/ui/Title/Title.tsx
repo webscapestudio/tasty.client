@@ -26,7 +26,14 @@ export const Title = ({ tag, children, className }: iTitle) => {
 
     case "h3":
       return (
-        <h3 className={cn(className, "font-bold text-[32px] leading-none")}>
+        <h3 className={cn(className, "font-bold text-[28px] leading-none")}>
+          {children}
+        </h3>
+      );
+
+    case "h5":
+      return (
+        <h3 className={cn(className, "font-bold text-[16px] leading-none")}>
           {children}
         </h3>
       );

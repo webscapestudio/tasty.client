@@ -1,3 +1,5 @@
+export { Rating } from "./Rating/Rating";
+export { CasinoTag } from "./CasinoTag/CasinoTag";
 export { Crumbs } from "./Breadcrumbs/Breadcrumbs";
 export { Vote } from "./Vote/Vote";
 export { ExpiresDays } from "./ExpiresDays/ExpiresDays";
